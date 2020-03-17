@@ -5,7 +5,6 @@
   "enabled": true,
   "triggerId": "credentials-exchange",
   "secrets": {
-    "somekey": "_VALUE_NOT_SHOWN_",
-    "key1": "_VALUE_NOT_SHOWN_"
+    "somekey": "_VALUE_NOT_SHOWN_"
   }
 }
