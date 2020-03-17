@@ -1,6 +1,5 @@
 {
   "name": "cce-test",
-  "script": "./cce-test.js",
   "dependencies": {},
   "enabled": true,
   "triggerId": "credentials-exchange",
