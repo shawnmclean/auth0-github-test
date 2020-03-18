@@ -1,3 +1,5 @@
 {
-  "name": "test"
+  "name": "test",
+  "enabled": true,
+  "triggerId": "credentials-exchange"
 }
