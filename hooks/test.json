@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "test-1",
   "enabled": true,
   "triggerId": "credentials-exchange",
   "dependencies": {},
