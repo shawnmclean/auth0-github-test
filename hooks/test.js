@@ -16,7 +16,7 @@
 @param {object} context.connection.name - connection name
 @param {object} context.connection.tenant - connection tenant
 @param {object} context.webtask - webtask context
-@param {function} cb - function (error, response)
+@param {function} cb - function (error, response
 */
 module.exports = function(user, context, cb) {
   // Perform any asynchronous actions, e.g. send notification to Slack.
