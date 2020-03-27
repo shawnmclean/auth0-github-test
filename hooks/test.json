@@ -2,6 +2,10 @@
   "name": "test-1",
   "enabled": true,
   "triggerId": "credentials-exchange",
-  "dependencies": {},
-  "secrets": {}
+  "dependencies": {
+    "bcrypt": "4.0.1"
+  },
+  "secrets": {
+    "SomeKey": "123"
+  }
 }
