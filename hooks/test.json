@@ -5,7 +5,5 @@
   "dependencies": {
     "bcrypt": "3.0.6"
   },
-  "secrets": {
-    "SomeKey": "123"
-  }
+  "secrets": {}
 }
