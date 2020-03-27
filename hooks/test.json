@@ -3,7 +3,7 @@
   "enabled": true,
   "triggerId": "credentials-exchange",
   "dependencies": {
-    "bcrypt": "4.0.1"
+    "bcrypt": "3.0.6"
   },
   "secrets": {
     "SomeKey": "123"
