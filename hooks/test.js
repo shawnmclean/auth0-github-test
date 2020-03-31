@@ -20,6 +20,5 @@
 */
 module.exports = function(user, context, cb) {
   // Perform any asynchronous actions, e.g. send notification to Slack.
-  // lol
   cb();
 };
