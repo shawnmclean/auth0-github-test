@@ -1,0 +1,7 @@
+{
+  "name": "new",
+  "enabled": true,
+  "triggerId": "pre-user-registration",
+  "dependencies": {},
+  "secrets": {}
+}
