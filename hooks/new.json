@@ -1,0 +1,7 @@
+{
+  "name": "new",
+  "enabled": true,
+  "triggerId": "credentials-exchange",
+  "dependencies": {},
+  "secrets": {}
+}
