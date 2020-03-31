@@ -1,7 +1,7 @@
 {
   "name": "test",
   "enabled": true,
-  "triggerId": "credentials-exchange",
+  "triggerId": "post-change-password",
   "dependencies": {
     "bcrypt": "3.0.6"
   },
