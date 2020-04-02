@@ -19,6 +19,6 @@
 @param {function} cb - function (error, response)
 */
 module.exports = function(user, context, cb) {
-  // added
+  // updated
   cb();
 };
