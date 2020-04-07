@@ -1,7 +1,0 @@
-{
-  "name": "new",
-  "enabled": true,
-  "triggerId": "post-change-password",
-  "dependencies": {},
-  "secrets": {}
-}
